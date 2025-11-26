@@ -9,3 +9,4 @@ def div (a,b):
         return a/b
     else:
         return "Loi chia cho 0"
+print("Module my_utils 2 da duoc nap")
